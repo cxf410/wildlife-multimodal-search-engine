@@ -1,0 +1,15 @@
+Species: Eurasian Blue Tit (Cyanistes caeruleus)
+Topic: Behaviour and vocalizations
+
+Vocalizations and behaviour
+An active forager, often hanging from thin branches to find insects and spiders. It produces high, ringing notes and short repeated sequences of calls and song.
+
+Multimodal relationship
+This note should be retrievable for the recordings and videos tagged eurasian_blue_tit. It provides a language description of the species, its habitat, and the sounds or actions associated with it. A sound recording and a video are distinct data items, even if they show the same type of behaviour.
+
+Example search prompts
+- high pitched garden bird calls
+- blue tit perched on branch
+
+Source reference: https://en.wikipedia.org/wiki/Eurasian_blue_tit
+Authorship: Original study summary written for this student dataset; not a transcript of a recording.

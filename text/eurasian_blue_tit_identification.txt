@@ -1,0 +1,18 @@
+Species: Eurasian Blue Tit
+Scientific name: Cyanistes caeruleus
+Category: Woodland songbird
+Typical habitat: deciduous woodland, parks and gardens
+Geographical range: Europe and western Asia
+
+Identification
+Small bird with a blue cap and wings, white cheeks, a dark eye stripe, a greenish back and yellow underparts.
+
+Habitat and appearance
+Eurasian Blue Tit is associated with deciduous woodland, parks and gardens. Its appearance can help distinguish it from other birds in a collection of wildlife photographs. For an automated search engine, this document provides written context that can be matched to a picture or a text query.
+
+Example search prompts
+- tiny blue and yellow bird
+- blue tit perched on branch
+
+Source reference: https://en.wikipedia.org/wiki/Eurasian_blue_tit
+Authorship: Original study summary written for this student dataset; not copied from the external source.

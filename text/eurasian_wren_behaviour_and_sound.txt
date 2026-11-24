@@ -1,0 +1,15 @@
+Species: Eurasian Wren (Troglodytes troglodytes)
+Topic: Behaviour and vocalizations
+
+Vocalizations and behaviour
+Moves quickly through low, tangled vegetation to look for insects and other small invertebrates. Despite its size, it produces a surprisingly powerful, fast and complex song.
+
+Multimodal relationship
+This note should be retrievable for the recordings and videos tagged eurasian_wren. It provides a language description of the species, its habitat, and the sounds or actions associated with it. A sound recording and a video are distinct data items, even if they show the same type of behaviour.
+
+Example search prompts
+- loud fast birdsong from undergrowth
+- small wren singing
+
+Source reference: https://en.wikipedia.org/wiki/Eurasian_wren
+Authorship: Original study summary written for this student dataset; not a transcript of a recording.

@@ -1,0 +1,18 @@
+Species: Common Cuckoo
+Scientific name: Cuculus canorus
+Category: Migratory bird
+Typical habitat: open woodland, farmland edges and reedbeds
+Geographical range: Europe and Asia; winters in Africa
+
+Identification
+A slender grey bird with long pointed wings, a long tail, and a pale belly with dark horizontal barring.
+
+Habitat and appearance
+Common Cuckoo is associated with open woodland, farmland edges and reedbeds. Its appearance can help distinguish it from other birds in a collection of wildlife photographs. For an automated search engine, this document provides written context that can be matched to a picture or a text query.
+
+Example search prompts
+- bird making cuckoo calls
+- cuckoo bird singing
+
+Source reference: https://en.wikipedia.org/wiki/Common_cuckoo
+Authorship: Original study summary written for this student dataset; not copied from the external source.

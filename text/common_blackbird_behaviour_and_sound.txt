@@ -1,0 +1,15 @@
+Species: Common Blackbird (Turdus merula)
+Topic: Behaviour and vocalizations
+
+Vocalizations and behaviour
+Forages on the ground for earthworms and other small animals, as well as fruit. Its melodious, fluty singing is common around sunrise and in the evening.
+
+Multimodal relationship
+This note should be retrievable for the recordings and videos tagged common_blackbird. It provides a language description of the species, its habitat, and the sounds or actions associated with it. A sound recording and a video are distinct data items, even if they show the same type of behaviour.
+
+Example search prompts
+- melodic bird song at dawn
+- blackbird singing
+
+Source reference: https://en.wikipedia.org/wiki/Common_blackbird
+Authorship: Original study summary written for this student dataset; not a transcript of a recording.

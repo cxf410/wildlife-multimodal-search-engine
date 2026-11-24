@@ -1,0 +1,15 @@
+Species: Common Cuckoo (Cuculus canorus)
+Topic: Behaviour and vocalizations
+
+Vocalizations and behaviour
+Famous for brood parasitism: females lay eggs in the nests of other birds. Male calls often have the recognisable repeated two-note cuckoo sound.
+
+Multimodal relationship
+This note should be retrievable for the recordings and videos tagged common_cuckoo. It provides a language description of the species, its habitat, and the sounds or actions associated with it. A sound recording and a video are distinct data items, even if they show the same type of behaviour.
+
+Example search prompts
+- grey migratory bird barred chest
+- cuckoo bird singing
+
+Source reference: https://en.wikipedia.org/wiki/Common_cuckoo
+Authorship: Original study summary written for this student dataset; not a transcript of a recording.

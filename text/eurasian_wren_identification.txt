@@ -1,0 +1,18 @@
+Species: Eurasian Wren
+Scientific name: Troglodytes troglodytes
+Category: Woodland songbird
+Typical habitat: dense vegetation, shrubs and undergrowth
+Geographical range: Europe and parts of Asia
+
+Identification
+A very small, compact brown bird with fine barring, a short neck, and a short tail that is frequently held upright.
+
+Habitat and appearance
+Eurasian Wren is associated with dense vegetation, shrubs and undergrowth. Its appearance can help distinguish it from other birds in a collection of wildlife photographs. For an automated search engine, this document provides written context that can be matched to a picture or a text query.
+
+Example search prompts
+- tiny brown bird with tail upright
+- small wren singing
+
+Source reference: https://en.wikipedia.org/wiki/Eurasian_wren
+Authorship: Original study summary written for this student dataset; not copied from the external source.

@@ -1,0 +1,15 @@
+Species: European Robin (Erithacus rubecula)
+Topic: Behaviour and vocalizations
+
+Vocalizations and behaviour
+Often seen near ground level searching for insects, worms and other invertebrates. Its clear, varied song is associated with territorial behaviour.
+
+Multimodal relationship
+This note should be retrievable for the recordings and videos tagged european_robin. It provides a language description of the species, its habitat, and the sounds or actions associated with it. A sound recording and a video are distinct data items, even if they show the same type of behaviour.
+
+Example search prompts
+- European garden bird singing
+- songbird in reeds
+
+Source reference: https://en.wikipedia.org/wiki/European_robin
+Authorship: Original study summary written for this student dataset; not a transcript of a recording.

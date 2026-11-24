@@ -1,0 +1,18 @@
+Species: European Robin
+Scientific name: Erithacus rubecula
+Category: Garden songbird
+Typical habitat: woodland, gardens and hedges
+Geographical range: Europe and nearby regions
+
+Identification
+A small round-bodied bird with a vivid orange-red face and breast, brown upperparts, and pale underparts.
+
+Habitat and appearance
+European Robin is associated with woodland, gardens and hedges. Its appearance can help distinguish it from other birds in a collection of wildlife photographs. For an automated search engine, this document provides written context that can be matched to a picture or a text query.
+
+Example search prompts
+- small bird with orange breast
+- songbird in reeds
+
+Source reference: https://en.wikipedia.org/wiki/European_robin
+Authorship: Original study summary written for this student dataset; not copied from the external source.

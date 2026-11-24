@@ -1,0 +1,18 @@
+Species: Red-winged Blackbird
+Scientific name: Agelaius phoeniceus
+Category: Wetland songbird
+Typical habitat: marshes, wetlands, grassland edges and fields
+Geographical range: North and Central America
+
+Identification
+Adult males are black with conspicuous red shoulder patches edged in yellow; females are streaky brown.
+
+Habitat and appearance
+Red-winged Blackbird is associated with marshes, wetlands, grassland edges and fields. Its appearance can help distinguish it from other birds in a collection of wildlife photographs. For an automated search engine, this document provides written context that can be matched to a picture or a text query.
+
+Example search prompts
+- black marsh bird red shoulder patches
+- red winged blackbird calling
+
+Source reference: https://en.wikipedia.org/wiki/Red-winged_blackbird
+Authorship: Original study summary written for this student dataset; not copied from the external source.

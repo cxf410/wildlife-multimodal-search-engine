@@ -1,0 +1,15 @@
+Species: Red-winged Blackbird (Agelaius phoeniceus)
+Topic: Behaviour and vocalizations
+
+Vocalizations and behaviour
+Males often sing from exposed perches to advertise territories in spring. Their liquid, buzzy song is common near marshes and cattails.
+
+Multimodal relationship
+This note should be retrievable for the recordings and videos tagged red_winged_blackbird. It provides a language description of the species, its habitat, and the sounds or actions associated with it. A sound recording and a video are distinct data items, even if they show the same type of behaviour.
+
+Example search prompts
+- bird singing in American wetland
+- red winged blackbird calling
+
+Source reference: https://en.wikipedia.org/wiki/Red-winged_blackbird
+Authorship: Original study summary written for this student dataset; not a transcript of a recording.

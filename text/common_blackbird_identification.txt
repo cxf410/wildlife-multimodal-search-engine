@@ -1,0 +1,18 @@
+Species: Common Blackbird
+Scientific name: Turdus merula
+Category: Garden songbird
+Typical habitat: parks, woods, gardens and farmland
+Geographical range: Europe and other introduced ranges
+
+Identification
+Adult males are largely black with a contrasting yellow-orange bill and eye-ring; females are mostly brown.
+
+Habitat and appearance
+Common Blackbird is associated with parks, woods, gardens and farmland. Its appearance can help distinguish it from other birds in a collection of wildlife photographs. For an automated search engine, this document provides written context that can be matched to a picture or a text query.
+
+Example search prompts
+- black bird with yellow beak
+- blackbird singing
+
+Source reference: https://en.wikipedia.org/wiki/Common_blackbird
+Authorship: Original study summary written for this student dataset; not copied from the external source.
