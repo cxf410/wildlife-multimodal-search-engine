@@ -1,0 +1,7 @@
+id,name,science,category,habitat,region,reference_page
+european_robin,European Robin,Erithacus rubecula,Garden songbird,"woodland, gardens and hedges",Europe and nearby regions,https://en.wikipedia.org/wiki/European_robin
+common_blackbird,Common Blackbird,Turdus merula,Garden songbird,"parks, woods, gardens and farmland",Europe and other introduced ranges,https://en.wikipedia.org/wiki/Common_blackbird
+eurasian_wren,Eurasian Wren,Troglodytes troglodytes,Woodland songbird,"dense vegetation, shrubs and undergrowth",Europe and parts of Asia,https://en.wikipedia.org/wiki/Eurasian_wren
+common_cuckoo,Common Cuckoo,Cuculus canorus,Migratory bird,"open woodland, farmland edges and reedbeds",Europe and Asia; winters in Africa,https://en.wikipedia.org/wiki/Common_cuckoo
+eurasian_blue_tit,Eurasian Blue Tit,Cyanistes caeruleus,Woodland songbird,"deciduous woodland, parks and gardens",Europe and western Asia,https://en.wikipedia.org/wiki/Eurasian_blue_tit
+red_winged_blackbird,Red-winged Blackbird,Agelaius phoeniceus,Wetland songbird,"marshes, wetlands, grassland edges and fields",North and Central America,https://en.wikipedia.org/wiki/Red-winged_blackbird

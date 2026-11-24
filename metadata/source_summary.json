@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-12",
+  "species": 6,
+  "items_total": 30,
+  "original_notes_locally_available": 12,
+  "external_multimedia_sources_verified": 18,
+  "external_multimedia_binaries_downloaded": 0,
+  "modality_counts": {
+    "text": 12,
+    "image": 6,
+    "audio": 6,
+    "video": 6
+  },
+  "note": "External media binaries were not downloaded by the dataset package creator. Run scripts/download_media.py from a computer with Internet access."
+}
