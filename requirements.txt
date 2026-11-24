@@ -1,0 +1,7 @@
+requests
+Pillow
+imageio-ffmpeg
+numpy
+torch
+transformers==4.50.3
+chromadb

@@ -1,0 +1,15 @@
+GitHub upload: a small guide (Windows)
+
+1. Extract this ZIP.
+2. Copy README.md, .gitignore, requirements.txt and Wildlife_Multimodal_Search_CSDS305.ipynb into the ROOT of your existing project:
+   C:\Users\carlo\Downloads\Wildlife_Bird_Search\Wildlife_Bird_Search_Data_Collection_2026-11-12
+   That is the folder containing scripts, data, metadata and the old README.md.
+3. If Windows asks, replace ONLY the existing README.md. Do NOT delete data, scripts or metadata.
+4. Open GitHub Desktop and sign in. Choose File > Add local repository, select that same project folder.
+5. If it says this directory does not appear to be a Git repository, choose to create a repository here.
+6. Inspect the Changes list. It should mainly contain .py, .md, .csv, .html and .ipynb files, not gigabytes of audio/video.
+7. Commit with message: CSDS 305 initial progress: dataset, embeddings and HNSW indexing.
+8. Publish repository to GitHub (choose public only if you are comfortable with the material; a private repository requires instructor access).
+9. Open it on GitHub and copy its URL to give your professor.
+
+Do not upload credentials, private data, or licensed media without permission.
