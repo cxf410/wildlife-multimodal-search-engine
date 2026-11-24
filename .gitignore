@@ -1,0 +1,20 @@
+
+# Original multimedia files
+/data/images/
+/data/audio/
+/data/videos/
+
+# Generated embeddings and database
+/data/processed/
+/data/vector_db/
+
+# Python temporary files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local environments and downloaded models
+.venv/
+.env
+*.safetensors
+*.pth
